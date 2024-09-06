@@ -12,6 +12,7 @@
     "recharts": "^2.12.7",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://kamaainaapp.github.io/KPK-dashboard",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -35,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
