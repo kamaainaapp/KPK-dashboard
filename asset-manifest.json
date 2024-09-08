@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KPK-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/KPK-dashboard/static/js/main.d79eb236.js",
+    "index.html": "/KPK-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/KPK-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.d79eb236.js.map": "/KPK-dashboard/static/js/main.d79eb236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d79eb236.js"
+  ]
+}
